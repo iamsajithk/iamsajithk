@@ -32,7 +32,7 @@
 
 <img align="left" alt="iamsajithk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iamsajithk" />
 
-[website]: https://sajith.feofex.com.com
+[website]: https://sajith.feofex.com
 [twitter]: https://twitter.com/iamsajithk
 [youtube]: https://www.youtube.com/channel/UCbw8cH1gBkGKSmbPW6CrTfw
 [instagram]: https://instagram.com/iamsajithk
