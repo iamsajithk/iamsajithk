@@ -4,7 +4,7 @@
  
  I mostly work with Web and Mobile technologies.☁️🚀
  
- <a href="https://app.daily.dev/iamsajithk"><img src="https://api.daily.dev/devcards/fc2f7b24ab4441e09125c0bb65c75ca9.png?r=nlj" width="400" alt="Sajith K's Dev Card"/></a>
+ <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iamsajithk/iamsajithk/blob/master/devcard.svg" width="400" alt="Sajith K's Dev Card"/></a>
 
 ### Connect with me:
 
