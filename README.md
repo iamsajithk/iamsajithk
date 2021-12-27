@@ -3,6 +3,8 @@
  I am [Sajith](https://www.sajith.feofex.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in programming.
  
  I mostly work with Web and Mobile technologies.☁️🚀
+ 
+ <a href="https://app.daily.dev/iamsajithk"><img src="https://api.daily.dev/devcards/fc2f7b24ab4441e09125c0bb65c75ca9.png?r=nlj" width="400" alt="Sajith K's Dev Card"/></a>
 
 ### Connect with me:
 
