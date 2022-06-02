@@ -8,7 +8,7 @@
 
 ### Connect with me:
 
-[(https://skillicons.dev/icons?i=netlify)][website]
+[![Website](https://skillicons.dev/icons?i=netlify)][website]
 [<img align="left" alt="iamsajithk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="iamsajithk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="iamsajithk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
